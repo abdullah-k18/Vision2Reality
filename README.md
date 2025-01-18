@@ -1,36 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Vision2Reality is a web application designed to help users break down their big dreams into actionable steps using AI-powered goal creation. The app allows users to provide a prompt, and the AI generates a set of goals to guide the user through their task. This simplifies the process of starting new projects by making complex ideas more manageable and achievable.
 
-## Getting Started
+The user interface is clean, modern, and user-friendly. Upon landing on the homepage, users are greeted with a clear call-to-action to get started with their journey. The home page includes a visually engaging gradient background, a prominent headline, and a button that takes the user to a more detailed page to begin generating their goals.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The primary feature of the app, goal creation, uses AI to turn user-provided prompts into concrete, actionable goals, making it an ideal tool for people looking to structure and organize their tasks more effectively.
